@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.083a4eb5.css",
-    "main.js": "/static/js/main.1994806a.js",
-    "static/js/890.32158adc.chunk.js": "/static/js/890.32158adc.chunk.js",
-    "static/js/453.27b3db42.chunk.js": "/static/js/453.27b3db42.chunk.js",
-    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
-    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
-    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
-    "static/media/Roboto-Light.ttf": "/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
-    "static/media/2.jpg": "/static/media/2.0c57d63b340f0e88b401.jpg",
-    "static/media/t-shirt.png": "/static/media/t-shirt.8a00390c3a3f36fd040b.png",
-    "index.html": "/index.html",
-    "main.083a4eb5.css.map": "/static/css/main.083a4eb5.css.map",
-    "main.1994806a.js.map": "/static/js/main.1994806a.js.map",
-    "453.27b3db42.chunk.js.map": "/static/js/453.27b3db42.chunk.js.map"
+    "main.css": "/gf-app/static/css/main.b7887905.css",
+    "main.js": "/gf-app/static/js/main.3a00fad8.js",
+    "static/js/890.32158adc.chunk.js": "/gf-app/static/js/890.32158adc.chunk.js",
+    "static/js/453.27b3db42.chunk.js": "/gf-app/static/js/453.27b3db42.chunk.js",
+    "static/media/Roboto-Medium.ttf": "/gf-app/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Roboto-Regular.ttf": "/gf-app/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Bold.ttf": "/gf-app/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/Roboto-Light.ttf": "/gf-app/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
+    "static/media/2.jpg": "/gf-app/static/media/2.0c57d63b340f0e88b401.jpg",
+    "static/media/t-shirt.png": "/gf-app/static/media/t-shirt.8a00390c3a3f36fd040b.png",
+    "index.html": "/gf-app/index.html",
+    "main.b7887905.css.map": "/gf-app/static/css/main.b7887905.css.map",
+    "main.3a00fad8.js.map": "/gf-app/static/js/main.3a00fad8.js.map",
+    "453.27b3db42.chunk.js.map": "/gf-app/static/js/453.27b3db42.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.083a4eb5.css",
-    "static/js/main.1994806a.js"
+    "static/css/main.b7887905.css",
+    "static/js/main.3a00fad8.js"
   ]
 }
