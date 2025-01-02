@@ -2,7 +2,7 @@ import './App.scss';
 import { Header } from './components/Header/Header';
 import Mainbody from './components/Mainbody/Mainbody';
 import Templates from './components/Mainbody/Templates';
-import { BrowserRouter, Navigate, Route, Routes, useLocation } from 'react-router-dom';
+import {BrowserRouter, HashRouter, Navigate, Route, Routes, useLocation} from 'react-router-dom';
 import Login from './components/Login';
 import FormHeader from './components/ConfigureQuestionPaper/FormHEader';
 import CenteredTabs from './components/common/Tabs';
@@ -18,7 +18,7 @@ function App() {
   let { isLoggedIn } = useAuth();
   return (
     <div style={{ overflow: 'hidden' }}>
-      <BrowserRouter>
+      <HashRouter>
         <DocumentsNameContextProvider>
           <GuideProvider>
             <Routes>
@@ -62,7 +62,7 @@ function App() {
             </Routes>
           </GuideProvider>
         </DocumentsNameContextProvider>
-      </BrowserRouter >
+      </HashRouter >
       <Toaster />
     </div >
   );
