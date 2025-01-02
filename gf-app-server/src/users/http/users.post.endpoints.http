@@ -1,0 +1,30 @@
+POST http://localhost:3000/users
+Content-Type: application/json
+
+{
+    "firstName": "",
+    "lastName": "",
+    "email": "",
+    "password": "",
+    "role": ""
+}
+
+POST http://localhost:3000/users/create-many
+Content-Type: application/json
+Authorization:
+{
+"users": [
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": ""
+    }
+  ]
+}
